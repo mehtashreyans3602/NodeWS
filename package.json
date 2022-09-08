@@ -1,0 +1,12 @@
+{
+  "name": "node-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shreyans Mehta",
+  "license": "ISC"
+}
